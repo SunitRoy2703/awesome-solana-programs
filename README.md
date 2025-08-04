@@ -63,6 +63,7 @@ A curated list of open-source Solana programs from the community.
 ### Testing Environment
 - [Litesvm](https://github.com/LiteSVM/litesvm) - Fast and lightweight library for testing
 - [Mollusk](https://github.com/anza-xyz/mollusk) - Lightweight test harness for programs
+- [Surfpool](https://github.com/txtx/surfpool) - Lightweight testnet with mainnet simulation
 
 ## Frameworks 
 - [Solana-sdk](https://github.com/anza-xyz/solana-sdk) - Rust SDK for programs

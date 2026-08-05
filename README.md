@@ -79,6 +79,7 @@ A curated list of open-source Solana programs from the community.
 ### Documentation
 - [Ackee's Solana Handbook](https://ackee.xyz/solana/book/latest/) - Comprehensive Solana development guide
 - [Blueshift Courses](https://learn.blueshift.gg/en) - Development guide
+- [Lamport Press Guides](https://lamport.press/guides) - Free one-page guides to program concepts: PDAs, Token-2022 extensions
 - [Solana Developer Resources](https://solana.com/developers) - Official Developer Resources
 
 ### Tutorials & Examples

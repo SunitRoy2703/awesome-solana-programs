@@ -12,6 +12,7 @@ A curated list of open-source Solana programs from the community.
 - [Frameworks](#frameworks)
 - [Learning Resources](#learning-resources)
 - [Contributing](#contributing)
+- [n8n-solana-mint-monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow that watches a Solana mint/program ID and alerts on Telegram when a new transaction appears, no API key needed.
 
 ## Native
 - [System Program](https://github.com/solana-program/system) - Solana System program

@@ -88,6 +88,7 @@ A curated list of open-source Solana programs from the community.
 - [Awesome sBPF](https://github.com/deanmlittle/awesome-sbpf) - sBPF Assembly Program Resources 
 - [Solana Program Rosetta](https://github.com/joncinque/solana-program-rosetta) - Program examples
 - [Awesome Solana Security](https://github.com/0xMacro/awesome-solana-security) - Security resources
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## Contributing
 
